@@ -9,6 +9,5 @@ After you've directed your way to the file, enter "javac Swap.java"
 Now, the java file is compiled. To enter the text you want to swap, go to "words.txt" and input the text.
 You will still need Command Prompt open to run the program.
 To swap the text, enter "java Swap.java"
-The text will now appear, congratulations, you now have swapped words.
 
 
